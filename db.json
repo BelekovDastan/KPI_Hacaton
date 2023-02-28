@@ -1,0 +1,28 @@
+{
+  "students": [
+    {
+      "surname": "Токуров",
+      "name": "Ясин",
+      "number": "12312312312в",
+      "weekKPI": "100",
+      "monthKPI": "100",
+      "id": 1
+    },
+    {
+      "surname": "Кулжанов",
+      "name": "Адилхан",
+      "number": "123123123",
+      "weekKPI": "100",
+      "monthKPI": "100",
+      "id": 2
+    },
+    {
+      "surname": "Белеков",
+      "name": "Дастан",
+      "number": "123123123",
+      "weekKPI": "100",
+      "monthKPI": "100",
+      "id": 3
+    }
+  ]
+}

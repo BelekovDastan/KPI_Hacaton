@@ -1,0 +1,46 @@
+body {
+  background: rgb(255, 255, 255);
+  background: radial-gradient(
+    circle,
+    rgba(255, 255, 255, 1) 0%,
+    rgba(255, 247, 174, 1) 100%
+  );
+}
+.card-img-top:hover {
+  width: 280px;
+  height: 320px;
+  transition: 1s;
+  margin: auto;
+  margin-top: 10px;
+  padding: 5px;
+  border: rgb(255, 255, 255) 2px solid;
+}
+
+.kpi_logo {
+  width: 100px;
+  height: 100px;
+  margin-top: 20px;
+  margin-left: 50px;
+}
+
+.main {
+  display: flex;
+  justify-content: space-between;
+}
+
+#main_article {
+  border: rgb(231, 166, 34) 2px solid;
+  width: 450px;
+  height: 100%;
+  margin: 15px;
+  border-radius: 20px;
+  padding: 10px;
+  background: #c21500;
+  background: -webkit-linear-gradient(to right, #ffc500, #c21500);
+  background: linear-gradient(to right, #ffc500, #c21500);
+  background-size: 100%;
+}
+
+#main_article button {
+  color: black;
+}
